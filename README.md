@@ -1,2 +1,2 @@
 # ProjectEuler
-I solve the Project Euler Problems in Ruby, J and Haskell.
+I solve the Project Euler problems in Ruby, J and Haskell.
